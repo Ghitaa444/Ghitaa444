@@ -63,7 +63,7 @@ Developed a web-based platform to simplify container deployment and management.
 ##  Currently
 
 -  Pursuing a Bachelor's degree in AI Engineering & Data Science.
--  Looking for a **Bachelor's PFE internship starting in early 2027**.
+-  Looking for a **Bachelor's  internship starting in early 2027**.
 -  Interested in Data Science, Machine Learning, AI Engineering & DevOps.
 
 ---
